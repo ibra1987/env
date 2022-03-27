@@ -1,0 +1,5 @@
+PORT= 3001
+
+MONGO_URI = mongodb+srv://ibra1987:moimeme@10@dbauto.6cw9n.mongodb.net/db_auto_main?retryWrites=true&w=majority
+
+MYSECRET = 1gjh4k809k6hg5@kjkj8u9890909lkjhjh77y7y8ihv
